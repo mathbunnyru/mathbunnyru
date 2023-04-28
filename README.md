@@ -13,5 +13,5 @@ My name is Ayaz and:
 
 <a href="https://github.com/mathbunnyru">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathbunnyru&layout=compact&langs_count=10&theme=solarized-light"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathbunnyru&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=mathbunnyru&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
 </a>
