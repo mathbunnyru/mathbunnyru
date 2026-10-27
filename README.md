@@ -12,6 +12,6 @@ My name is Ayaz and:
 - ⚡ Fun fact: `std::unordered_set<int>(n).bucket_count()` is a funny way to find a prime which is at least `n`.
 
 <a href="https://github.com/mathbunnyru">
-  <img height="180em" src="https://github-readme-stats-mathbunnyru.vercel.app/api/top-langs/?username=mathbunnyru&layout=compact&langs_count=10&theme=solarized-light" alt="Most used languages"/>
-  <img height="180em" src="https://github-readme-stats-mathbunnyru.vercel.app/api?username=mathbunnyru&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="./profile/top-langs.svg" alt="Most used languages"/>
+  <img height="180em" src="./profile/stats.svg" alt="GitHub Stats"/>
 </a>
