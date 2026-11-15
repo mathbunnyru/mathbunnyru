@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ayaz Salikhov&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 27, Total Commits  : 99285, Total PRs: 1759, Total Issues: 199, Contributed to (last year): 16</desc>
+        <desc id="descId">Total Stars Earned: 27, Total Commits  : 99285, Total PRs: 1759, Total Issues: 199, Contributed to (last year): 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >16</text>
+      >15</text>
     </g>
   </g>
     </svg>
